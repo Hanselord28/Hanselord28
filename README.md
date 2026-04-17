@@ -1,6 +1,8 @@
-# ¡Hola! Soy Hansel Tobar
+# ¡Hola! Soy Hansel Tobar 🚀
 
-Estudiante de Ingenieria informatica con especial aficion por cosas como Linux y el desarrollo de Herramientas Web de acceso Libre
+Estudiante de Ingeniería Informática con especial afición por Linux y el desarrollo de herramientas web de acceso libre. 
+
+Desarrollador enfocado en el ecosistema **JavaScript/TypeScript**, apasionado por el despliegue de soluciones en entornos **Linux** y la arquitectura de bases de datos no relacionales. Siempre explorando nuevas formas de integrar la tecnología con el arte y la historia.
 
 ### 🛠️ Tecnologías
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -12,11 +14,9 @@ Estudiante de Ingenieria informatica con especial aficion por cosas como Linux y
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📈 Mis Estadísticas
+### 🔭 Proyectos y Enfoque
+- **Zentix**: Desarrollando una plataforma integral para el catálogo y gestión de Manga, Anime y Novelas Ligeras.
+- **Infraestructura**: Profundizando conocimientos en administración de redes (Cisco/SSH) y virtualización.
 
-### 🔭 Actualmente trabajando en...
-- **Zentix**: Catálogo de Anime, manga y novelas ligeras.
-- Perfeccionando mis habilidades en redes (Cisco/SSH).
-
-### 📫 Cómo contactarme
-- **Instagram**: https://www.instagram.com/hansel.ml28/
+### 📫 Contacto
+- **Instagram**: [hansel.ml28](https://www.instagram.com/hansel.ml28/)
