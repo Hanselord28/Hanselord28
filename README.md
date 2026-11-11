@@ -22,9 +22,5 @@ Desarrollador enfocado en el ecosistema **JavaScript/TypeScript**, apasionado po
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🔭 Proyectos y Enfoque
-- **Zentix**: Desarrollando una plataforma integral para el catálogo y gestión de Manga, Anime y Novelas Ligeras.
-- **Infraestructura**: Profundizando conocimientos en administración de redes (Cisco/SSH) y virtualización.
-
 ### 📫 Contacto
 - **Instagram**: [hansel.ml28](https://www.instagram.com/hansel.ml28/)
